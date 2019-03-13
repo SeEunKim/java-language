@@ -1,4 +1,4 @@
-package hackerrank.stdin_and_stdout;
+package hackerrank.stdin_and_stdout1;
 
 import java.util.Scanner;
 
